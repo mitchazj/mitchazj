@@ -2,6 +2,8 @@
 
 I build things for fun and also for work sometimes. I'm usually available for freelance work with React, Next.js, Laravel, Livewire, and/or Tailwind CSS. Currently working as a sessional academic & exploring a few post-grad options.
 
+More coming soon :))
+
 <!--
 **mitchazj/mitchazj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
