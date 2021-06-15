@@ -3,6 +3,7 @@
 I build things for fun and also for work sometimes. I'm usually available for freelance work with React, Next.js, Laravel, Livewire, and/or Tailwind CSS. Currently working as a sessional academic & exploring a few post-grad options.
 
 Currently vibing the VLIRT stack (Vite, Laravel, Inertia, React, & Tailwind)
+Somewhat ok at C, C#, Python, & Rust.
 
 More coming soon :))
 
