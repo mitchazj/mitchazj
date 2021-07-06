@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I build things for fun and also for work sometimes. I'm usually available for freelance work with React, Next.js, Laravel, Livewire, and/or Tailwind CSS. Currently working as a sessional academic & exploring a few post-grad options (including a Masters by Research).
+I build things for fun and also for work sometimes. I'm usually available for freelance work with React, Next.js, Laravel, Livewire, and/or Tailwind CSS. Currently working as a Masters research student at the University of Queensland & exploring a few post-grad options.
 
 Currently vibing the VLIRT stack (Vite, Laravel, Inertia, React, & Tailwind)<br />
 Somewhat ok at C, C#, Python, Rust, & Matlab.
