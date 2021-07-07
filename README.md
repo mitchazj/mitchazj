@@ -7,7 +7,7 @@ Somewhat ok at C, C#, Python, Rust, & Matlab.
 
 More coming soon :))
 
-Products &middot; Projects &middot; [Templates](https://github.com/mitchazj/templates) &middot; Packages &middot; Blogs &middot; Twitter &middot; Youtube
+Products &middot; Projects &middot; [Templates](https://github.com/mitchazj/templates) &middot; Packages &middot; Blogs &middot; [Twitter](https://twitter.com/mitchazj) &middot; Youtube
 
 <!--
 **mitchazj/mitchazj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
