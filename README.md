@@ -5,6 +5,8 @@ I build things for fun and also for work sometimes. I'm usually available for fr
 Currently vibing the VLIRT stack (Vite, Laravel, Inertia, React, & Tailwind)<br />
 Somewhat ok at C, C#, Python, Rust, & Matlab.
 
+Working on releasing this soon! (off-shoot from my Masters) https://openaneurysm.netlify.app/
+
 More coming soon :))
 
 Products &middot; Projects &middot; [Templates](https://github.com/mitchazj/templates) &middot; Packages &middot; Blogs &middot; [Twitter](https://twitter.com/mitchazj) &middot; Youtube
