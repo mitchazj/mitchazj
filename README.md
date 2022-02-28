@@ -1,6 +1,8 @@
 ## Hey there 👋
 
-I build things for fun and also for work sometimes. I'm usually available for freelance work with React, Next.js, Laravel, Livewire, and/or Tailwind CSS. Currently working at [Canva](https://canva.com/) as a frontend engineer.
+I build things for fun and also for work sometimes. I'm usually available for freelance work with React, Next.js, Laravel, Livewire, and/or Tailwind CSS.
+
+Currently working at [Canva](https://canva.com/) as a frontend engineer.
 
 Vibing the VLIRT stack (Vite, Laravel, Inertia, React, & Tailwind)<br />
 Somewhat ok at C, C#, Python, Rust, & Matlab.
